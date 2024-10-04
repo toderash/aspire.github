@@ -1,10 +1,10 @@
-# AspirePress
+# Welcome to AspirePress
 
 AspirePress exists to promote the WordPress ecosystem, and to build WordPress into what we all aspire it to be.
 
-# A vision for AspirePress and a community-run .org mirror
+## A vision for AspirePress and a community-run .org mirror
 
-## The problem
+### The problem
 
 In the last few weeks, we’ve seen that every WordPress instance in the world has a single point of failure. That single
 point of failure creates a risk for security, reliability, and credibility for the entire ecosystem. Further, that
@@ -13,7 +13,7 @@ single point of failure could be leveraged to distribute malware or damage the c
 This post is about laying out a vision for the future of WordPress, the future of distributing plugin and theme updates,
 and how we can improve the community as a whole.
 
-## The vision
+### The vision
 
 To address this problem, we have to move in two major steps:
 
@@ -49,7 +49,7 @@ The thing is that for this to be a true community project, I need your help. I n
 documentation, test and offer their feedback and critiques. This is a full-court press for the community, and it takes a
 lot of people to make an open source project work.
 
-# Long-term: distributed, federated, funded
+### Long-term: distributed, federated, funded
 
 The long-term goals of the project are to effectively ensure three key elements of the mirror system:
 
@@ -65,7 +65,7 @@ None of these concepts is particularly ground-breaking. For example, DNS is dist
 should work like DNS: publication of a plugin to one mirror should result in propagation of that plugin to other mirrors
 that support it and wish to make it available.
 
-# I need your help
+### I need your help
 
 This project cannot be done by me alone. While I think I have laid a good foundation, I need experts at devops, coding,
 marketing, social media, documentation and more to come together to help drive this to the finish line.
