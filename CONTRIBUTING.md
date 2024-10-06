@@ -101,9 +101,3 @@ license based on conditions within that license; all others may use the original
 license. The "dual license" model does not in any way constitute a reduction in rights or freedoms granted users, and
 any user that wishes to remain on an older version under the original license may do so. We will not retroactively
 change license terms.
-
-## Security
-
-If you observe a security vulnerability in one of our packages or libraries, please responsibly report it to
-support@aspirepress.org. We will respond to notify you that we received your query, and we will credit you in the fix we
-provide. We ask for 30 days to fix any vulnerability before you disclose it.
