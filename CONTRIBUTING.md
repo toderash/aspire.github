@@ -4,10 +4,6 @@ Contributions are **welcome** and will be fully **credited**.
 
 We accept contributions via Pull Requests on [Github](https://github.com/AspirePress) to the appropriate package.
 
-## Versioning
-
-This project uses [Semantic Versioning](https://semver.org/) for all packages, libraries and plugins.
-
 ## Pull Requests
 
 ### WordPress Plugins & Projects
@@ -52,25 +48,6 @@ we apply the following standards:
   version, as this violates Semantic Versioning.
 * All code contributed is subject to the license of the repository to which it is contributed. You agree to release your
   code under that license.
-
-## Maintenance Cycle
-
-Every major version released will be maintained, unless we mark the project as abandoned. If we mark a project as
-abandoned, we will grant at least six months notice prior to the end of support.
-
-When a new major version is released, we will offer security fixes and patches to the old version for one year following
-the release of the new version. For example, if 1.0 is replaced by 2.0, we will continue to support 1.0 with security
-and patches for 1 year following the release of 2.0.
-
-For minor and patch (<major>.<minor>.<patch>) versions, we offer no ongoing support of an old minor or patch version
-once a new one has come out. Because we follow semantic versioning, we will not break compatibility of the major version
-in a minor or patch release.
-
-The exception to this policy is in an emergency where security or safety is at risk. If a security issue requires
-breaking backwards compatibility, we will a) inform users through our communication channels and b) make the minimum
-number of changes required to patch the problem. We may also revoke access to versions that contain severe security
-vulnerabilities. Finally, we will prepare to release a new major version as quickly as possible containing the breaking
-changes.
 
 ## General Rules For Contributing
 
