@@ -16,7 +16,8 @@
 
 By opening this pull request, I do agree to abide by the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) and be bound by the terms
 of the [Contribution Guidelines](CONTRIBUTING.md) in effect on the date and time of my contribution as proven by the
-revision information in GitHub.
+revision information in GitHub. I also agree that any previous contributions shall be deemed subject to the terms of the
+version in effect on the date and time of this pull request, or any future revisions for pull requests I may submit.
 
 Further, I certify that this work is my own, is original, does not violate the intellectual property of any other person
 or entity, and I am not violating any license agreements or contracts I have with any person or entity.
