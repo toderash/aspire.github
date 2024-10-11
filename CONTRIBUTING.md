@@ -110,3 +110,5 @@ The terms of this contribution agreement may change at any time, and will be pub
 Changes are effective immediately for new contributions, and thirty days (30 days) after posting the new terms to
 GitHub.com for existing contributions. You may opt out of the new terms by contacting any person on the leadership team
 or writing support@aspirepress.org.
+
+You can view our [list of contributors](CREDITS.md).
