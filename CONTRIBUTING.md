@@ -103,3 +103,10 @@ license based on conditions within that license; all others may use the original
 license. The "dual license" model does not in any way constitute a reduction in rights or freedoms granted users, and
 any user that wishes to remain on an older version under the original license may do so. We will not retroactively
 change license terms.
+
+## Misc
+
+The terms of this contribution agreement may change at any time, and will be published in GitHub and made public.
+Changes are effective immediately for new contributions, and thirty days (30 days) after posting the new terms to
+GitHub.com for existing contributions. You may opt out of the new terms by contacting any person on the leadership team
+or writing support@aspirepress.org.
