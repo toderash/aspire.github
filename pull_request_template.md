@@ -14,8 +14,8 @@
 
 ## CERTIFICATION
 
-By opening this pull request, I do agree to abide by the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) and be bound by the terms
-of the [Contribution Guidelines](CONTRIBUTING.md) in effect on the date and time of my contribution as proven by the
+By opening this pull request, I do agree to abide by the [CODE OF CONDUCT](https://github.com/aspirepress/.github/CODE_OF_CONDUCT.md) and be bound by the terms
+of the [Contribution Guidelines](https://github.com/aspirepress/.github/CONTRIBUTING.md) in effect on the date and time of my contribution as proven by the
 revision information in GitHub. I also agree that any previous contributions shall be deemed subject to the terms of the
 version in effect on the date and time of this pull request, or any future revisions for pull requests I may submit.
 
