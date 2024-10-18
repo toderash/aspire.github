@@ -80,8 +80,7 @@ If you contribute to this project, you grant an exclusive,royalty-free, global, 
 any members of AspirePress to use, relicense, redistribute, copy, modify, change or otherwise utiize any source code you
 contribute. Furthermore, contribution of source code is not a guarantee that you will be granted rights to use the
 project for your own purposes. By contributing you acknowledge that the code you contribute becomes licensed by
-AspirePress, that you may not revoke that license, and you may not use that code again without written permission from
-AspirePress.
+AspirePress, and you may not may not revoke, rescind, or modify that license at any time for any reason.
 
 You also agree to indemnify and hold harmless AspirePress and any members of AspirePress from any harm, including
 litigation or copyright enforcement, for code you commit that you do not own. **DO NOT COMMIT CODE YOU DO NOT OWN OR
