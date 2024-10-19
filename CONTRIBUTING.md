@@ -74,6 +74,39 @@ accepting contributions.
    you like, especially if we can't incorporate your recommendations. But please also honor
    our [Governance Rules](GOVERNANCE.md).
 
+## Branching and Workflow
+
+We use a centralized approach that leaves `main` as the bleeding edge and has version branches for bug and feature
+fixes in the specific version. Since we use [Semantic Versioning](https://semver.org/) we need to provide ways that
+we can addequately maintain and/or add features to existing versions, without breaking the backwards compatibility of
+those versions.
+
+* The `main` branch is the source of truth for the bleeding edge of the project. It should be used for applying all new
+  features and bugfixes that affect new and existing features.
+* The version branch (e.g. `1.x`) is used for bugfixes specific to features in that version. Bugfixes that are applied
+  to `main` and also apply to the version branch should be first merged to `main` and then applied to the version
+  branch. Fixes that apply ONLY to the version branch should target that branch specifically.
+* New features should be developed against `main` **first**. If the new feature is applicable to a version branch and
+  the changes in `main` do not break backwards compatibility, you can merge that feature into the version branch.
+* Backwards compatibiltiy should always be maintained in version branches **unless** doing so creates a security
+  problem.
+* Features should be developed in feature branches that you create in your own fork of the project you're working on.
+  Once the feature is ready, open a pull request against `main` or the version branch if applicable.
+* Pull requests should have the commits squashed and merged as a single commit to ease backporting and/or merging
+  upstream.
+* We maintain a CHANGELOG in every project that should follow
+  the [Keep A Changelog](https://keepachangelog.com/en/1.1.0/) specification. For unreleased changes, keep an "
+  Unreleased" section in the changelog. Update the changelog to the version you plan to deploy BEFORE tagging and move
+  unreleased changes to that changelog. Make sure that you update ALL OTHER BRANCHES (`main` and version branches) with
+  the changelog information so that the changelog is consistent.
+* Once a feature branch is merged into the main project or a version branch, it *should not* be used again. It should be
+  deleted and a new feature branch started from the latest version of the project.
+* Once `main` begins to drift significantly from a version branch, such that it becomes difficult or impossible to merge
+  items from `main` into the version branch, that version is considered discontinued and we should be making plans for a
+  new major version.
+* When a new major version is issued, we need to create a version branch with that major version's revision number (e.g.
+  `2.x`) for future development. We do not do minor version branches.
+
 ## Licenses and Copyrights
 
 If you contribute to this project, you grant an exclusive,royalty-free, global, irrevocable license to AspirePress and
