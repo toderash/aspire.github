@@ -43,6 +43,7 @@ The specifics of the API are to be determined, but each package maintainer shoul
 
 Upon receipt of the new package or package version, the repository **MUST** update its internal records to distribute that version AND call other federated repositories through the associated API endpoints to inform them of the new version.
 
+
 ## Distributing metadata
 
 When a new package or package version is provided to a repository, it **MUST** call other federated repositories to inform them of the change within a reasonable period of time.
@@ -55,7 +56,7 @@ If the notification is unsuccessful, the notification process will fail for that
 
 Upon notification from a peer that a new version is available, and that peer is canonical for the resource, a repository **must** update its internal records to provide that version of the package within a reasonable timeframe.
 
-There are exceptions to this rule to permit repositories to limit or prohibit distribution of certain packages or namespaces. However if these restrictions are not defined, a repository must be prepared to offer any and all packages published by peers.
+There are exceptions to this rule to permit repositories to limit or prohibit distribution of certain packages or namespaces. However, if these restrictions are not defined, a repository must be prepared to offer any and all packages published by peers.
 
 Upon receipt of the metadata the repository has two choices:
 
@@ -84,7 +85,8 @@ Additionally, malicious peers could attempt to distribute packages that are inte
 
 To prevent against this, the following rules apply:
 
-- Unless a package comes directly from the original .org repo, the package **MUST** have a namespace. The namespace is published by the repository when peering, cannot be changed, and must be provided with any package for which it is canonical. For example AspireCloud's first-person repository namespace would be `aspire`. - Repositories may accept or reject other repositories from which they permit or refuse traffic. Under circumstances where a repository is attempting a DDOS attack against the other repositories (e.g. publishing packages that are illegitimate for the purposes of flooding other repositories), a repository owner has the right to outright block access to their infrastructure by the offending repository.
+- Unless a package comes directly from the original .org repo, the package **MUST** have a namespace. The namespace is published by the repository when peering, cannot be changed, and must be provided with any package for which it is canonical. For example AspireCloud's first-person repository namespace would be `aspire`.
+- Repositories may accept or reject other repositories from which they permit or refuse traffic. Under circumstances where a repository is attempting a DDOS attack against the other repositories (e.g. publishing packages that are illegitimate for the purposes of flooding other repositories), a repository owner has the right to outright block access to their infrastructure by the offending repository.
 - A repository may specify what level it accepts from specific repositories. For example, a repository may be accepted as a non-canonical source, but refuse to accept canonical packages for security reasons.
 - A repository may choose not to distribute ANY packages or assets from a particular repository if it so desires.
 - A repository must authenticate requests from repositories through public-private key encryption prior to accepting any data or federation from a new repository.
