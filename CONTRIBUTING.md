@@ -45,7 +45,9 @@ accepting contributions.
 
 ## Branching and Workflow
 
-We use a centralized approach that leaves `main` as the current stable dev version and has version branches for bug and feature fixes in the specific version. Since we use [Semantic Versioning](https://semver.org/) we need to provide ways that we can adequately maintain and/or add features to existing versions, without breaking the backwards compatibility of those versions.
+
+We use a centralized approach that leaves `main` as the current stable dev version and has version branches for bug and feature fixes in the specific version. Since we use [Semantic Versioning](https://semver.org/) we need to provide ways that we can adequately maintain and/or add features to existing versions, without breaking backwards compatibility.
+
 
 * The `main` branch is the source of truth for the bleeding edge of the project. It should be used for applying all new features and bugfixes that affect new and existing features.
 * The version branch (e.g. `1.x`) is used for bugfixes specific to features in that version. 
@@ -61,7 +63,8 @@ We use a centralized approach that leaves `main` as the current stable dev versi
 
 ## Licenses and Copyrights
 
-If you contribute to this project, you grant an exclusive,royalty-free, global, irrevocable license to AspirePress and any members of AspirePress to use, relicense, redistribute, copy, modify, change or otherwise utilize any source code you contribute. Furthermore, contribution of source code is not a guarantee that you will be granted rights to use the project for your own purposes. By contributing you acknowledge that the code you contribute becomes licensed by AspirePress, and you may not may not revoke, rescind, or modify that license at any time for any reason.
+
+If you contribute to this project, you grant an exclusive,royalty-free, global, irrevocable license to AspirePress and any members of AspirePress to use, relicense, redistribute, copy, modify, change or otherwise utilize any source code you contribute. Furthermore, contribution of source code is not a guarantee that you will be granted rights to use the project for your own purposes. By contributing you acknowledge that the code you contribute becomes licensed by AspirePress, and you may not revoke, rescind, or modify that license at any time for any reason.
 
 You also agree to indemnify and hold harmless AspirePress and any members of AspirePress from any harm, including litigation or copyright enforcement, for code you commit that you do not own. **DO NOT COMMIT CODE YOU DO NOT OWN OR THAT IS COPYRIGHTED BY SOMEONE ELSE!**
 
@@ -70,6 +73,7 @@ For libraries that are not CopyLeft (e.g. GPL, LGPL, AGPL, etc.) AspirePress per
 Your license of your contributions to AspirePress relieves us of the right to relicense any project or repository under new terms, starting with the next major version. However, we voluntarily limit our relicensing right to relicensing projects only insofar as the new license is no more restrictive than the previous license. We reserve the right to convert any non-CopyLeft licensed code into a CopyLeft-licensed project, though we will use this right sparingly. You agree that your permission is not needed for relicensing of a project that you contributed to.
 
 Note that we may "dual license" any project at any time. A "dual license" may require certain users to use a particular license based on conditions within that license; all others may use the original or new (but similarly restrictive) license. The "dual license" model does not in any way constitute a reduction in rights or freedoms granted users, and any user that wishes to remain on an older version under the original license may do so. We will not retroactively change license terms.
+
 
 ## Misc
 
