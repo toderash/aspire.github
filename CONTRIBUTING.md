@@ -137,6 +137,9 @@ license. The "dual license" model does not in any way constitute a reduction in 
 any user that wishes to remain on an older version under the original license may do so. We will not retroactively
 change license terms.
 
+When creating a pull requests or committing changes to any AspirePress repository, contributors certify that their contributions are their own, are original and do not violate the intellectual property of any other person or entity. The author also certifies that they are not violating any license agreements or contracts they have with any person or entity. Contributors also agree that any contributioons may be licensed under any license deemed appropriate by AspirePress, including but not limited to open source, closed source, proprietary or custom licenses, and that such license terms neither violate their rights or their copyright to the contributions.
+
+
 ## Misc
 
 The terms of this contribution agreement may change at any time, and will be published in GitHub and made public.
