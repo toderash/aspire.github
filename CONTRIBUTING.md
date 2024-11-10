@@ -41,6 +41,7 @@ accepting contributions.
 3. Please make sure your code passes CI/CD before creating a pull request. You can run `make check` locally on most repositories to ensure that they comply with our style, quality and test coverages.
 4. Please honor and follow our style guidelines.
 5. Please do not merge your own Pull Request. Allow it to be merged by the reviewer once review is complete, or the review has been approved. **If you push new changes after review is approved, it must be reviewed again!** Project leads *may* merge their own pull requests, but are highly encouraged to seek review from the community, first. 6. Please take feedback seriously, if it's offered. We won't generally reject a pull request on spec, and we will often offer feedback as to why we don't think it's a good fit or what needs to change. If you honor our feedback, we're more likely to accept your pull request.
+6. Issues will be closed by the team lead when they have been tested by a quality assurance lead, if available, or another developer. Please do not close issues before they are tested.
 7. Remember that this is a) an open-source project run by volunteers and b) an open-source project that you are welcome to fork or work with under the terms of the license. Please feel free to use the code, fork the project, or do what you like, especially if we can't incorporate your recommendations. But please also honor our [Governance Rules](GOVERNANCE.md).
 
 ## Branching and Workflow
