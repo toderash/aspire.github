@@ -65,7 +65,7 @@ We use a centralized approach that leaves `main` as the current stable dev versi
 ## Licenses and Copyrights
 
 
-If you contribute to this project, you grant an exclusive,royalty-free, global, irrevocable license to AspirePress and any members of AspirePress to use, relicense, redistribute, copy, modify, change or otherwise utilize any source code you contribute. Furthermore, contribution of source code is not a guarantee that you will be granted rights to use the project for your own purposes. By contributing you acknowledge that the code you contribute becomes licensed by AspirePress, and you may not revoke, rescind, or modify that license at any time for any reason.
+If you contribute to this project, you grant an exclusive, royalty-free, global, irrevocable license to AspirePress and any members of AspirePress to use, relicense, redistribute, copy, modify, change or otherwise utilize any source code you contribute. Furthermore, contribution of source code is not a guarantee that you will be granted rights to use the project for your own purposes. By contributing you acknowledge that the code you contribute becomes licensed by AspirePress, and you may not revoke, rescind, or modify that license at any time for any reason.
 
 You also agree to indemnify and hold harmless AspirePress and any members of AspirePress from any harm, including litigation or copyright enforcement, for code you commit that you do not own. **DO NOT COMMIT CODE YOU DO NOT OWN OR THAT IS COPYRIGHTED BY SOMEONE ELSE!**
 
@@ -76,7 +76,7 @@ Your license of your contributions to AspirePress relieves us of the right to re
 Note that we may "dual license" any project at any time. A "dual license" may require certain users to use a particular license based on conditions within that license; all others may use the original or new (but similarly restrictive) license. The "dual license" model does not in any way constitute a reduction in rights or freedoms granted users, and any user that wishes to remain on an older version under the original license may do so. We will not retroactively change license terms.
 
 
-When creating a pull requests or committing changes to any AspirePress repository, contributors certify that their contributions are their own, are original and do not violate the intellectual property of any other person or entity. The author also certifies that they are not violating any license agreements or contracts they have with any person or entity. Contributors also agree that any contributioons may be licensed under any license deemed appropriate by AspirePress, including but not limited to open source, closed source, proprietary or custom licenses, and that such license terms neither violate their rights or their copyright to the contributions.
+When creating a pull requests or committing changes to any AspirePress repository, contributors certify that their contributions are their own, are original and do not violate the intellectual property of any other person or entity. The author also certifies that they are not violating any license agreements or contracts they have with any person or entity. Contributors also agree that any contributions may be licensed under any license deemed appropriate by AspirePress, including but not limited to open source, closed source, proprietary or custom licenses, and that such license terms neither violate their rights or their copyright to the contributions.
 
 
 ## Misc
