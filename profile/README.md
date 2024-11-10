@@ -22,18 +22,19 @@ The first goal of the project is to offer a viable solution to the centralized c
 
 | Status      | Description                                                                                                                                   |
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| DONE        | Develop a plugin that can rewrite the api.wordpress.org and download.wordpress.org endpoints to endpoints controlled by a third party mirror. |
-| DONE        | Develop a tool for downloading the entire library of plugins.                                                                                 |
-| DONE        | Develop a passthru endpoint that redirects unknown requests to .org                                                                           |
-| IN PROGRESS | Develop a tool for updating plugins from the .org                                                                                             |
-| IN PROGRESS | Negotiate with a CDN provider for the data and bandwidth we’ll need.                                                                          |
-| IN PROGRESS | Implement the basic endpoints for updating WordPress.                                                                                         |
-| TO DO       | Set up the ability to issue free API keys to protect the endpoints from abuse, while offering free access to the average user.                |
-| TO DO       | Develop a tool for downloading the entire library of themes                                                                                   |
-| TO DO       | Develop a tool for updating themes from the .org                                                                                              |
-| TO DO       | Develop documentation.                                                                                                                        |
-| TO DO       | Setup and test infrastructure                                                                                                                 |
-| TO DO       | Launch                                                                                                                                        |
+| DONE        | Develop a plugin (AspireUpdate) that can rewrite the api.wordpress.org and download.wordpress.org endpoints.                                  |
+| DONE        | Develop a tool (AspireSync)for downloading the entire library of plugins.                                                                     |
+| DONE        | Develop a passthru endpoint (AspireCloud) that redirects unknown requests to .org                                                             |
+| IN PROGRESS | Develop a tool (AspireSync) for updating plugins from the .org                                                                                |
+| IN PROGRESS | Negotiate with a CDN provider for the data and bandwidth necessary to operate AspireCloud.                                                    |
+| IN PROGRESS | Implement the basic endpoints (AspireCloud) for updating WordPress.                                                                           |
+| IN PROGRESS | Set up the ability to issue free API keys to protect the endpoints from abuse, while offering free access to the average user.                |
+| IN PROGRESS | Develop a tool (AspireSync) for downloading the entire library of themes                                                                      |
+| IN PROGRESS | Develop a tool  (AspireSync) for updating themes from the .org                                                                                |
+| IN PROGRESS | Develop [documentation](docs.aspirepress.org).                                                                                                |
+| TO DO       | Setup and test AspirePress infrastructure                                                                                                     |
+| TO DO       | Launch AspirePress                                                                                                                            |
+| TO DO       | Reach out to hosts and plugin developers                                                                                                      |
 
 This list is a rough cut of the tasks that need to be completed to effectively launch a mirror of the .org site. It will be updated as we make progress, and also be [updated on GitHub](https://github.com/orgs/aspirepress/projects/1).
 
