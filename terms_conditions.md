@@ -24,9 +24,9 @@ When creating a pull requests or committing changes to any AspirePress repositor
   (c) any of your contributions may be licensed or relicensed under any license deemed appropriate by AspirePress, including but not limited to open source or closed source, including proprietary or custom licenses, and that such license terms neither violate your rights or your copyright to the contributions; and
   (d) any previous contributions shall be deemed subject to the terms of the version in effect on the date and time of the most recent pull request you have submitted or submit in the future.
 
-## Changes to this Document
+## Changes to this Agreement
 
-The terms of this contribution agreement may change at any time, and will be published online and made public. Changes are effective immediately for new contributions, and thirty (30) days after posting the new terms for existing contributions. You may opt out of the new terms by contacting any person on the leadership team or writing support@aspirepress.org.
+The terms of this agreement may change at any time, and will be published online with our source code repository or on our website at aspirepress.org. Changes are effective immediately for new contributions, and thirty (30) days after posting the new terms for existing contributions. You may opt out of the new terms by contacting any person on the leadership team in writing to support@aspirepress.org. The latest version of this agreement is indicated in the timestamp below.
 
 -----
 
