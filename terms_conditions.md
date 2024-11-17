@@ -10,6 +10,8 @@
 
 ## License and Copyright
 
+You retain copyright to code you submit.
+
 By contributing to this project, you grant a non-exclusive, royalty-free, global, irrevocable license to AspirePress, its heirs and assigns, and any members of AspirePress to use, relicense, redistribute, copy, modify, change or otherwise use, for any purpose, any source code or other work product you contribute. By contributing, you acknowledge that the code or other work product you contribute becomes licensed and relicenseable by AspirePress, and that you may not revoke, rescind, or modify this grant of license at any time or for any reason.
 
 You agree to indemnify and hold harmless AspirePress and any members of AspirePress from any harm, including litigation or copyright enforcement, for code or other work product you commit that you do not own. **DO NOT COMMIT ANYTHING YOU DO NOT OWN OR THAT IS COPYRIGHTED BY SOMEONE ELSE!**
@@ -28,17 +30,19 @@ When creating a pull requests or committing changes to any AspirePress repositor
 
 The terms of this contribution agreement may change at any time, and will be published online and made public. Changes are effective immediately for new contributions, and thirty (30) days after posting the new terms for existing contributions. You may opt out of the new terms by contacting any person on the leadership team or writing support@aspirepress.org.
 
-This document was last modified on November ##, 2024 at 00:00 UTC.
-
 -----
 
 ## Notes
 
 <em>The notes in this section do not form a part of the terms and conditions, but may help explain what is generally meant by some of the references.</em>
 
-1. "Copyleft"
+1. Copyright
+   If for any reason you do not wish to retain copright to any work you contribute, please contact us about where it may be assignable. You do not have to do this before submitting a pull request.
+2. "Copyleft"
   See [Thompson Reuters Glossary](https://ca.practicallaw.thomsonreuters.com/Search/Results.html?query=copyleft&isPremiumAdvanceSearch=false&contentType=KNOWHOW_GLOBAL&querySubmissionGuid=i0a89af7a0000019331c06080e56701e3&categoryPageUrl=Home%2FPracticalLawGlobal&scopedSearchContext=%7B%22Type%22%3A%22PLGlobalPracticeArea%22%2C%22hasAllContent%22%3Atrue%2C%22defaultOption%22%3A%7B%22ContentType%22%3A%22KNOWHOW_GLOBAL%22%2C%22CollectionSet%22%3A%22w_plc_uk_gbl_all%22%2C%22Title%22%3A%22All%20Global%20Content%22%2C%22ViewExpression%22%3A%22%22%2C%22ScopedFacet%22%3A%22%22%2C%22ScopedJurisdiction%22%3A%22%22%2C%22ScopedPageUrl%22%3A%22Home%2FPracticalLawGlobal%22%7D%2C%22otherOptions%22%3A%5B%5D%7D&searchId=i0a89af7a0000019331bfa808c6b3751e&collectionSet=w_plc_uk_gbl_all&transitionType=ListViewType&contextData=(sc.Search)), [Opensource.com](https://opensource.com/resources/what-is-copyleft), [GNU.org](https://www.gnu.org/licenses/copyleft.en.html). Copyleft licenses may place restrictions on the redistribution of the modified or unmodified work. Examples include the GPL, LGPL, and Creative Commons "Sharealike" licenses. These are sometimes referred to as "viral" licenses.
-2. "Dual Licensing"
+3. "Dual Licensing"
   For example, GPL-licensed code is often licensed as "GPL 2.0 or later". Similarly, if we have released code under a license like the MIT license, existing users would still be subject to that license, while new users might be subject to a different one.
 
-You can view our [list of contributors](CREDITS.md).
+-----
+
+This document was last modified on November ##, 2024 at 00:00 UTC.
