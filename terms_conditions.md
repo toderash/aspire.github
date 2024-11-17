@@ -1,4 +1,4 @@
-# AspirePress Terms & Conditions
+# AspirePress Contribution Agreement
 
 ## Preamble
 
@@ -26,7 +26,7 @@ When creating a pull requests or committing changes to any AspirePress repositor
 
 ## Changes to this Agreement
 
-The terms of this agreement may change at any time, and will be published online with our source code repository or on our website at aspirepress.org. Changes are effective immediately for new contributions, and thirty (30) days after posting the new terms for existing contributions. You may opt out of the new terms by contacting any person on the leadership team in writing to support@aspirepress.org. The latest version of this agreement is indicated in the timestamp below.
+The terms of this Contribution Agreement may change at any time, and will be published online with our source code repository or on our website at aspirepress.org. Changes are effective immediately for new contributions, and thirty (30) days after posting the new terms for existing contributions. You may opt out of the new terms by contacting any person on the leadership team in writing via email. The latest version of this agreement is indicated in the timestamp below.
 
 -----
 
