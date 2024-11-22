@@ -6,6 +6,8 @@ This preamble does not form a part of the Community Code of Conduct, but outline
 
 The AspirePress Community welcomes contributors and supporters from around the world. We are more of a [centered set than a bounded set](https://scottsmeester.medium.com/you-must-choose-a-new-mindset-cce94ce15f58), as sociologist and cultural anthropologist Paul Hiebert conceived of the distinction. Codes of Conduct work in much the same way: rather than focusing on the boundary to determine whether you're in or you're out, focus on the center and move in that direction. In other words, simply forcus on showing and communicating respect for every person. With this mindset, any actual boundary ceases to matter because nobody approaches it except from the outside on their way in.  Our Code of Conduct describes and embraces that path. For the health of our community and the safety of its members, it also defines the boundary.
 
+-----
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
