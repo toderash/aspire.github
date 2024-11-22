@@ -24,15 +24,17 @@ For libraries that do **not** use a Copyleft license, AspirePress permits any op
 
 We voluntarily limit our right to relicense code you have contributed, but any new license may be no more restrictive than a Copyleft license. You agree that your contribution and grant of license explicitly allows relicensing of a project to which you have contributed. We may also "dual license" any contribution at any time, requiring certain users to use a particular license based on conditions within that license while all others may use the original or new (but similarly restrictive) license. The "dual license" model does not constitute a reduction in rights or freedoms granted users, and any user that wishes to remain on an older version under the original license may do so.
 
-When creating a pull request or committing changes to any AspirePress repository, you certify that
+When creating a pull request or committing changes to any AspirePress repository, you certify:
 
-  (a) your contributions are your own, are original, and do not violate the intellectual property of any other person or entity;
-  
-  (b) your contribution is not in violation of any license agreement or contract that you have with any person or entity;
-  
-  (c) any of your contributions may be licensed or relicensed under any license deemed appropriate by AspirePress, including but not limited to open source or closed source, including proprietary or custom licenses, and that such license terms neither violate your rights or your copyright to the contributions; and
-  
-  (d) any previous contributions shall be deemed subject to the terms of the version in effect on the date and time of the most recent pull request you have submitted or submit in the future.
+<ol>
+  (a) that your contributions are your own, are original, and do not violate the intellectual property of any other person or entity;
+  <br><br>
+  (b) that your contribution is not in violation of any license agreement or contract that you have with any person or entity;
+  <br><br>
+  (c) that any of your contributions may be licensed or relicensed under any license deemed appropriate by AspirePress, including but not limited to open source or closed source, including proprietary or custom licenses, and that such license terms neither violate your rights or your copyright to the contributions; and
+  <br><br>
+  (d) that any previous contributions shall be deemed subject to the terms of the version in effect on the date and time of the most recent pull request you have submitted or submit in the future.
+</ol>
 
 ## Changes to this Agreement
 
