@@ -1,4 +1,4 @@
-# AspirePress Plugin Directory Policy
+# AspirePress Software Repository Policy
 
 ## Preamble
 
@@ -7,6 +7,7 @@ The goal of the AspirePress Software Repository is to provide a robust distribut
 -----
 
 ** Licensing & Other Requirements **
+
 1. Plugins must be compatible with the GNU General Public License v2
 2. Code must be (mostly) human readable.
 3. Developers are responsible for the contents and actions of their plugins.
@@ -16,11 +17,13 @@ The goal of the AspirePress Software Repository is to provide a robust distribut
 7. A complete plugin must be available at the time of submission.
 
 ** Features & Functions Not Permitted **
+
 8. Trialware is not permitted.
 9. Plugins may not track users without their explicit consent, and must offer a means for the user to opt out.
 10. Plugins may not send executable code via third-party systems.
 
 ** Best Practice Guidelines **
+
 11. Plugins may not embed external links or credits on the public site without explicitly asking the user’s permission.
 12. Plugins should not hijack the admin dashboard.
 13. Public facing pages on WordPress.org (readmes) must not spam.
@@ -29,6 +32,7 @@ The goal of the AspirePress Software Repository is to provide a robust distribut
 16. Plugin version numbers must be incremented for each new release. Semantic versioning is encouraged but not required.
 
 ** Additional Conditions & Permission **
+
 17. We reserve the right to maintain the Plugin Directory to the best of our ability.
 18. Software as a Service is permitted.
 
