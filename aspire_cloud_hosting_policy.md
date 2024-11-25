@@ -10,9 +10,9 @@ If you believe you have a case where a software package would not be accepted fo
 
 -----
 
-## Aspire Cloud
+## Aspire Cloud Guidelines, Terms, & Conditions
 
-** Licensing & Other Requirements **
+### Licensing & Other Requirements
 
 1. Plugins must be compatible with the GNU General Public License v2, but may use any license which qualifies.
 2. By submitting your software and updates, you agree to indemnify and hold harmless AspirePress and its network partners for any actions resulting from your software.
@@ -23,25 +23,25 @@ If you believe you have a case where a software package would not be accepted fo
 7. Developers and their plugins must not do anything illegal, dishonest, or morally offensive.
 8. A complete plugin must be available at the time of submission.
 
-** Features & Functions Not Permitted **
+### Features & Functions Not Permitted
 
 8. Trialware is not permitted.
 9. Plugins may not track users without their explicit consent, and must offer a means for the user to opt out.
 10. Plugins may not send executable code via third-party systems.
 
-** Best Practice Guidelines **
+### Best Practice Guidelines
 
 11. Plugins should not hijack the admin dashboard.
 12. Plugins must use WordPress’ default libraries.
 13. Frequent commits to a plugin should be avoided.
 14. Plugin version numbers must be incremented for each new release. Semantic versioning is encouraged but not required.
 
-** Additional Conditions & Permission **
+### Additional Conditions & Permission
 
 15. We reserve the right to maintain the Plugin Directory to the best of our ability.
 16. Software as a Service is permitted.
 
-** Community Requirements **
+### Community Requirements
 
 17. Software contributors are expected to abide by the AspirePress Code of Conduct.
 18. Public facing pages on WordPress.org (readmes) must not spam.
